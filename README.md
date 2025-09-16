@@ -6,8 +6,14 @@ Este é um projeto de blog simples inspirado no anime *Demon Slayer*, desenvolvi
 
 <img width="3161" height="1491" alt="image" src="https://github.com/user-attachments/assets/d0e58971-2866-4561-82f4-10d13d35cceb" />
 <img width="3200" height="1468" alt="image" src="https://github.com/user-attachments/assets/6d7684f4-c0e7-4109-ad7f-a7d8c3698d14" />
-<img width="3200" height="1496" alt="image" src="https://github.com/user-attachments/assets/ce79884a-1a52-4b83-a9cc-dde0693698b4" />
-(DASHBOARD/ADMIN em andamento)
+<img width="2356" height="1271" alt="image" src="https://github.com/user-attachments/assets/4cb54b42-2b31-4778-b326-ceb0800b9292" />
+<img width="3165" height="1481" alt="image" src="https://github.com/user-attachments/assets/d6b3d035-8a99-430b-bbc0-c1a319ba9137" />
+(ADMIN e DETAILED_PAGE em andamento)
+
+https://github.com/user-attachments/assets/933154c2-06c1-4933-b4c3-8af1953b0bfc
+
+
+
 
 
 ## ✅ Funcionalidades Implementadas (até agora)
@@ -24,15 +30,15 @@ Este é um projeto de blog simples inspirado no anime *Demon Slayer*, desenvolvi
 
 ## 🛠️ Tecnologias Utilizadas
 
-- PHP (sem frameworks)
+- PHP (puro)
 - MySQL
 - HTML/CSS
-- Bootstrap 5 (tema escuro)
-- XAMPP (Ambiente de desenvolvimento local)
+- Bootstrap 5
+- XAMPP (localhost)
 
 ---
 
-## 📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas (muito simplificado)
 
 <pre>
 blog-app/
@@ -46,6 +52,10 @@ blog-app/
 │ │ ├── login.php
 │ │ ├── signup.php
 │ │ ├── logout.php
+│ │ ├── 404.php
+│ │ ├── index.php
+│ │ ├── home.php
+│ │ ├── blog.php
 │ │ └── admin.php
 │
 ├── public/
