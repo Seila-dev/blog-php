@@ -4,6 +4,12 @@ Este é um projeto de blog simples inspirado no anime *Demon Slayer*, desenvolvi
 
 ---
 
+<img width="3161" height="1491" alt="image" src="https://github.com/user-attachments/assets/d0e58971-2866-4561-82f4-10d13d35cceb" />
+<img width="3200" height="1468" alt="image" src="https://github.com/user-attachments/assets/6d7684f4-c0e7-4109-ad7f-a7d8c3698d14" />
+<img width="3200" height="1496" alt="image" src="https://github.com/user-attachments/assets/ce79884a-1a52-4b83-a9cc-dde0693698b4" />
+(DASHBOARD/ADMIN em andamento)
+
+
 ## ✅ Funcionalidades Implementadas (até agora)
 
 - [x] Sistema de Registro de Usuários
